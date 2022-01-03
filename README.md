@@ -3,6 +3,7 @@
 Meme_Add Gaussian Noise.ipynb: Construct noisy meme images with Gaussian distribution and append to the original training dataset
 Meme_Add Memotion 7K.ipynb: Select suitable Memotion 7K dataset, convert to MMF accepted format and append to the original training dataset
 Meme_Replace Text with Similarities.ipynb: Construct "twisted" memes text with characters randomly replaced using Facebook Augly tool and append to the original training dataset
+
 2. 
 MMBT_Add Image Noise.ipynb: MMBT baseline training on training dataset augmented by Gaussian noisy memes images 
 MMBT_Add Memotion 7K.ipynb:  MMBT baseline training on training dataset augmented by Memotion 7K dataset
