@@ -23,4 +23,4 @@ Meme_Replace Text with Similarities.ipynb: Construct "twisted" memes text with c
 7. Self_Training_Pseudo_Label_Generation.ipynb: Pipeline for training on the RedditMemes dataset using a pretrained MMBT model on HatefulMemes dataset, the pesudo labels of which are later used for a retraining.
 
 ## Report
-Hate_Memes_Detection_Report is the final report that includes five parts: introduction, methodology, experiment results, future works and referrence.
+Report_Hate_Memes_Detection.pdf is the final report that includes five parts: introduction, methodology, experiment results, future works and referrence.
